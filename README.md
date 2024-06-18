@@ -27,7 +27,7 @@ The `circRNA_Illumina` folder contains scripts for the identification of circRNA
 2. `hisat_index.sbatch`
 3. `run_CIRI2.sbatch`
 4. `run_CIRIquant.sbatch`
-5. `run_DEseq2.sbatch`
+5. `run_DEseq2.R`
 
 
 ### circRNA_ONT
